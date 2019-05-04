@@ -1,0 +1,61 @@
+/* style.css */
+
+body{
+    font-family: 'Roboto Slab', serif;
+    background-image: url("./black.jpg");
+    height: 100vh;
+    width: 100%;
+    color: white;
+}
+header{
+background-color: gray;
+text-align: center;
+padding:20px; 
+margin: 20px; 
+}
+nav{
+background-color: lightblue; 
+padding:30;
+text-align: center;
+margin: 20px;
+}
+
+section{
+background-color: rgb(150, 134, 207);
+text-align: center;
+width: 600px;
+float: left;
+height:200px;
+padding:20px;
+margin-bottom:;
+}
+aside{
+width: 580px; 
+float: left;
+background-color: cadetblue;
+height: 200px;
+text-align: center;
+padding: 20px;
+}
+
+article{
+background-color: rgb(51, 70, 87);
+height: 150px;
+}
+
+#section-p{
+background-color: dimgray;
+}
+
+#hs{
+background-color: red;
+}
+
+footer{
+width:100%;
+background-color: blue;
+float: left;
+margin-top:20px;
+height:50px;
+} 
+
